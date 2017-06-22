@@ -1,3 +1,7 @@
+a {
+	font-family:sans-serif;
+}
+
 .contact-section {
 	margin: 0 auto;
 	text-align: center;
@@ -13,4 +17,17 @@
 
 .testimonial {
 	padding-top: 15px;
+}
+
+.headshot {
+	width: 100px;
+	border-radius: 100%
+}
+
+.contact-section button {
+	margin: 10px;
+}
+
+.contact-section a {
+	color: #fff;
 }
